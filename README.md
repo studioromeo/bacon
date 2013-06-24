@@ -3,6 +3,6 @@
 
 [Bacon](http://www.youtube.com/watch?v=IVQ3wWWYqRk)
 
-![Bacon](https://raw.github.com/studioromeo/Bacon/master/bacon.jpg)
+Created by Me & [Luke](https://github.com/MrLuke/)
 
-Created by Rob & [Luke](https://github.com/MrLuke/)
+![Bacon](https://raw.github.com/studioromeo/Bacon/master/bacon.jpg)
