@@ -1,0 +1,26 @@
+section {
+	-webkit-backface-visibility: hidden !important;
+	-webkit-transform-style: preserve-3d !important;
+	-webkit-transition: .3s;
+	-webkit-transition-delay: .1s;
+	position: relative;
+}
+
+section:after {
+	content: '';
+	background: url('bacon.jpg') no-repeat;
+	background-size: 100% auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	left:0;
+	right: 0;
+	bottom: 0;
+	-webkit-backface-visibility: hidden !important;
+	-webkit-transform-style: preserve-3d !important;
+	-webkit-transform: rotateY(180deg) !important;
+}
+
+section:hover {
+	-webkit-transform: rotateY(180deg) !important;
+}
