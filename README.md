@@ -3,4 +3,4 @@
 
 [Bacon](http://www.youtube.com/watch?v=IVQ3wWWYqRk)
 
-![Bacon](https://github.com/studioromeo/Bacon/blob/master/bacon.jpg)
+![Bacon](https://raw.github.com/studioromeo/Bacon/master/bacon.jpg)
